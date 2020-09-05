@@ -1,0 +1,8 @@
+body
+{
+    text-align: center;
+    background-color: antiquewhite;
+    display: table-cell;
+    display: inline-block;
+    margin-left: 30%;
+}
